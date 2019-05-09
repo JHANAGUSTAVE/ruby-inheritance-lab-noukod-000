@@ -7,3 +7,4 @@ end
 def learn(knowlege)
 end
 end
+
